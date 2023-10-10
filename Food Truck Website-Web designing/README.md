@@ -1,6 +1,4 @@
-## In this repository the project done by me using Python, Django, HTML5, CSS3 and Javascript.
-
-**1. Flying Food Truck Website-** This website is of food truck business created using HTML5, CSS3 and JavaScript.
+**Flying Food Truck Website-** This website is of food truck business created using HTML5, CSS3 and JavaScript.
 
 &nbsp;&nbsp;  This website contains the following:
 - A sliding gallery of food items
