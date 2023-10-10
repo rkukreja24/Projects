@@ -1,6 +1,5 @@
 1. Flying Food Truck Website- This website is of food truck business created using HTML5, CSS3 and JavaScript.
-
-   This website contains the following:
+2. This website contains the following:
 
 A sliding gallery of food items
 An updated menu
